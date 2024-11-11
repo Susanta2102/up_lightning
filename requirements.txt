@@ -1,0 +1,17 @@
+streamlit
+requests
+mysql-connector-python
+APScheduler
+pytz
+folium
+streamlit-folium
+pandas
+plotly
+pandas
+SQLAlchemy
+python-dotenv
+branca
+scikit-learn
+geopy
+Shapely
+numpy
